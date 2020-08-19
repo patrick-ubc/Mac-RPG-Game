@@ -7,7 +7,7 @@ Here are instructions for downloading:
   ![alt text](https://i.postimg.cc/50Wxh2r6/Screen-Shot-2020-08-19-at-4-13-37-PM.png)
 3. unzip the file, you can then delete the zip file. 
 4. We are almost down! Because this is not an official application, you may be rejected when try to run the application. 
-    Then simple go to System Preferences / Security&Privacy / General / Allow apps downloaded from /, 
+    Then simply go to System Preferences / Security&Privacy / General / Allow apps downloaded from /, 
     click "open anyway".
  
 Enjoys the game!
